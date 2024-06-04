@@ -6,7 +6,7 @@
         "slide_Q4UPQq": {
           "type": "slide",
           "settings": {
-            "img_mobile": "shopify:\/\/shop_images\/Kopia_Kopia_04_298_3985_2092_76_209_1092_4095_info_mollysrestaurant.com_3000x1500_px_2700x1500_px.png",
+            "img_mobile": "shopify:\/\/shop_images\/Kopia_Kopia_04_298_3985_2092_76_209_1092_4095_infomollysrestaurant.com_30001500_px_27001500_px_kopia.png",
             "img_desktop": "shopify:\/\/shop_images\/Kopia_Kopia_04_298_3985_2092_76_209_1092_4095_info_mollysrestaurant.com_3000x1500_px_2700x1500_px.png",
             "overlay_color": "#000000",
             "overlay_opacity": 10,
@@ -42,7 +42,7 @@
         "media_mobile_height": 400,
         "media_desktop_height": 750,
         "media_adapt": true,
-        "media_full": true,
+        "media_full": false,
         "caption_max_width": "900",
         "caption_position": "carousel-caption-center",
         "subtitle_font_size": "fs-md",

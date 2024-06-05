@@ -422,7 +422,7 @@
         "slider_partial_slides_mobile": true,
         "slider_autoplay": 0,
         "card_bg_color": "bg-secondary",
-        "card_bg_opacity": 10,
+        "card_bg_opacity": 9,
         "card_text_color": "text-primary",
         "card_border_width": 1,
         "card_border_color": "border-primary",

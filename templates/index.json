@@ -309,7 +309,7 @@
         "open_first_item": true,
         "header_title": "FAQs",
         "header_title_font_size": "h2",
-        "header_description": "<p>Add on optional description for this section<\/p>",
+        "header_description": "",
         "header_description_font_size": "fs-md",
         "pt": 2,
         "pb": 11

@@ -232,10 +232,10 @@
             "title_font_size": "h3",
             "description": "<p>On our production lines we use only teenagers at least 12 years old. On the left there is our best employe ❤️❤️❤️<\/p>",
             "description_font_size": "fs-md",
-            "btn_primary_text": "Primary button",
+            "btn_primary_text": "",
             "btn_primary_url": "",
             "btn_primary_color": "btn-primary",
-            "btn_secondary_text": "Secondary button",
+            "btn_secondary_text": "",
             "btn_secondary_url": "",
             "btn_secondary_color": "btn-outline-primary",
             "pt": 10,
@@ -264,7 +264,7 @@
           "type": "item",
           "settings": {
             "title": "What payment methods do you support?",
-            "description": "<p>We accept PayPal, Visa, MasterCard, Discover, and American Express, Google Pay and Apple Pay but feel free to contact us for other payment options.<\/p>"
+            "description": "<p>We accept PayPal, Visa, MasterCard, Discover, American Express, Google Pay and Apple Pay but feel free to contact us for other payment options.<\/p>"
           }
         },
         "item_pHCJRG": {

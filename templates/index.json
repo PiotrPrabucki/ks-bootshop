@@ -270,7 +270,7 @@
             "title_font_size": "h2",
             "description": "<p>As an advanced and modern company we use best methods to deliver your orders. We are also know for protecting the environment so we use planes to make as much CO2 as we can so plants and trees are well fed. ✈🌱❤<\/p>",
             "description_font_size": "fs-md",
-            "btn_primary_text": "Primary button",
+            "btn_primary_text": "",
             "btn_primary_url": "",
             "btn_primary_color": "btn-primary",
             "btn_secondary_text": "Secondary button",

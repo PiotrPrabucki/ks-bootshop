@@ -3,7 +3,7 @@
     "html_ahKXRK": {
       "type": "html",
       "settings": {
-        "liquid": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0836\/3376\/6743\/files\/Projekt_bez_nazwy_30.png?v=1717672883\"width:100%;max-width:1350px\">",
+        "liquid": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0836\/3376\/6743\/files\/Projekt_bez_nazwy_30.png?v=1717672883\" style=\"width:100%;max-width:1350px\">",
         "bg_color": "bg-body",
         "bg_opacity": 100,
         "bg_gradient": "",

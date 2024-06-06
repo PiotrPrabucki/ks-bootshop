@@ -2,8 +2,9 @@
   "sections": {
     "collection_header_JKf7mh": {
       "type": "collection-header",
+      "disabled": true,
       "custom_css": [
-        "h6{font-size: 0px;}"
+        "h6 {font-size: 0px;}"
       ],
       "settings": {
         "bg_color": "bg-primary",
@@ -65,11 +66,35 @@
         "pt": 0,
         "pb": 0
       }
+    },
+    "html_iQFeWP": {
+      "type": "html",
+      "settings": {
+        "liquid": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0836\/3376\/6743\/files\/Meme.png?v=1717670460\" style=\"witdth=100%\">",
+        "bg_color": "bg-body",
+        "bg_opacity": 100,
+        "bg_gradient": "",
+        "text_color": "text-body",
+        "border_top_width": 0,
+        "border_bottom_width": 0,
+        "border_color": "border-body",
+        "border_opacity": 100,
+        "container": "",
+        "container_max_width": "",
+        "text_align": "text-center",
+        "header_title": "HTML and Liquid",
+        "header_title_font_size": "h2",
+        "header_description": "<p>Add on optional description for this section<\/p>",
+        "header_description_font_size": "fs-md",
+        "pt": 10,
+        "pb": 10
+      }
     }
   },
   "order": [
     "collection_header_JKf7mh",
     "collection_products_Fx3hb6",
-    "da87b500-2710-4252-99e4-4bd5db55af39"
+    "da87b500-2710-4252-99e4-4bd5db55af39",
+    "html_iQFeWP"
   ]
 }

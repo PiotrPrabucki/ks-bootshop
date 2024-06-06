@@ -1,63 +1,7 @@
 {
   "sections": {
-    "hero_carousel_y7yj8i": {
-      "type": "hero-carousel",
-      "blocks": {
-        "slide_K7m8Hx": {
-          "type": "slide",
-          "settings": {
-            "img_mobile": "shopify:\/\/shop_images\/obraz_2024-06-06_121332017.png",
-            "img_desktop": "shopify:\/\/shop_images\/Projekt_bez_nazwy_27_0f1746f0-6e24-4eb0-ab3e-5fea6ad83309.png",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "overlay_blur": 0,
-            "subtitle": "",
-            "title": "Meme collection",
-            "description": "",
-            "btn_primary_text": "",
-            "btn_primary_url": "",
-            "btn_secondary_text": "",
-            "btn_secondary_url": ""
-          }
-        }
-      },
-      "block_order": [
-        "slide_K7m8Hx"
-      ],
-      "settings": {
-        "bg_color": "bg-body",
-        "bg_opacity": 100,
-        "bg_gradient": "",
-        "text_color": "text-white",
-        "border_top_width": 0,
-        "border_bottom_width": 0,
-        "border_color": "border-body",
-        "border_opacity": 100,
-        "carousel_controls": true,
-        "carousel_indicators": true,
-        "carousel_transition": "slide",
-        "carousel_transition_duration": 500,
-        "carousel_autoplay": 5,
-        "carousel_effect": "carousel-zoom-in",
-        "media_mobile_height": 400,
-        "media_desktop_height": 550,
-        "media_adapt": false,
-        "media_full": false,
-        "caption_max_width": "900",
-        "caption_position": "carousel-caption-center",
-        "subtitle_font_size": "fs-md",
-        "title_font_size": "h2",
-        "description_font_size": "fs-lg",
-        "btn_primary_color": "btn-primary",
-        "btn_secondary_color": "btn-secondary",
-        "btn_font_size": "fs-md",
-        "pt": 0,
-        "pb": 0
-      }
-    },
     "collection_header_JKf7mh": {
       "type": "collection-header",
-      "disabled": true,
       "settings": {
         "bg_color": "bg-primary",
         "bg_opacity": 10,
@@ -121,7 +65,6 @@
     }
   },
   "order": [
-    "hero_carousel_y7yj8i",
     "collection_header_JKf7mh",
     "collection_products_Fx3hb6",
     "da87b500-2710-4252-99e4-4bd5db55af39"

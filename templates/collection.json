@@ -11,7 +11,7 @@
         "border_bottom_width": 0,
         "border_color": "border-body",
         "border_opacity": 100,
-        "container_max_width": "600",
+        "container_max_width": "800",
         "img_show": true,
         "img_overlay_color": "#000000",
         "img_overlay_opacity": 30,

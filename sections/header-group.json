@@ -49,6 +49,7 @@
           "type": "mobile",
           "settings": {
             "container_max_width": "",
+            "logo": "shopify:\/\/shop_images\/meme_warfare_store_4.png",
             "logo_height": 30,
             "main_menu": "",
             "collections_menu": "",
